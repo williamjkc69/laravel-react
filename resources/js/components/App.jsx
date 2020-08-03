@@ -14,6 +14,10 @@ export default function App() {
                         <div className="card-body">
                             I'm tiny React component in Laravel app!
                         </div>
+
+                        <div className="card-body">
+                            this is my first deployment!
+                        </div>
                     </div>
                 </div>
             </div>
