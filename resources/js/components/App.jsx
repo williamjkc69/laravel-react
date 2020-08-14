@@ -8,7 +8,7 @@ export default function App() {
                 <div className="col-md-8">
                     <div className="card text-center">
                         <div className="card-header">
-                            <h2>React Component in Laravel</h2>
+                            <h2>React Component in Laravel 2</h2>
                         </div>
 
                         <div className="card-body">
